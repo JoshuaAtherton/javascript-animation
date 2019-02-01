@@ -1,3 +1,2 @@
-# Zerlin
-Virtual world video game for TCSS 499, Computational Worlds (University of Washington Tacoma)
+Animation using HTML5 and javascript. View at https://github.com/JoshuaAtherton/animation-project/index.html
  Animation in javascript using canvas element
